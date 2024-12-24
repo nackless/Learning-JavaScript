@@ -11,9 +11,6 @@ tags:
   - learning
 ---
 
-
-
-
 8 data types
 
 1. Number
@@ -25,19 +22,18 @@ tags:
 7. object and symbol
 8. typeof operator
 
-
 8 Data types in [Javascript](https://javascript.info/types)[^data_types]
 
 [^data_types]: https://javascript.info/types
 
-
 # Strings
 
-Are potentially what makes JavaScript special. You get the power to manipulate stings in Javascript and that make it all interesting. This can be a custom message or a prompt. Understanding how to  manipulate strings would potentially be an important step in mastering JS.
+Are potentially what makes JavaScript special. You get the power to manipulate stings in Javascript and that make it all interesting. This can be a custom message or a prompt. Understanding how to manipulate strings would potentially be an important step in mastering JS.
 
 This is the [MDN page](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Strings)[^MDN_strings] on strings.
 
 [^MDN_strings]: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Strings
+
 ## Basic String Methods
 
 Javascript strings are primitive and immutable: All string methods produce a new string without altering the original string.
@@ -46,9 +42,7 @@ Learn more about <strong>String methods</strong> on this [W3schools page](https:
 
 [^methods]: https://www.w3schools.com/js/js_string_methods.asp
 
-
-Also, [MDN Web]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) Docs for strings[^MDN_web_docs_strings] provides useful reference resource. 
-
+Also, [MDN Web](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) Docs for strings[^MDN_web_docs_strings] provides useful reference resource.
 
 [^MDN_web_docs_strings]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 
@@ -58,8 +52,7 @@ Also, [MDN Web]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Referen
 
 Step 1: Learn about [comparisons](https://javascript.info/comparison)[^comparisons]
 
-[^comparisons]:https://javascript.info/comparison
-
+[^comparisons]: https://javascript.info/comparison
 
 Comparisons use <, >, ==, >=, <=, !=
 
@@ -77,7 +70,5 @@ the end of either string.`
 string is greater.`
 
 ```
-
-
 
 #### References:
